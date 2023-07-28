@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Strategy", "Strategy\Strate
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TemplateMethod", "TemplateMethod\TemplateMethod.csproj", "{EE51DC06-F8BB-4305-A2B8-915E14F3A80E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Observer", "Observer\Observer.csproj", "{9E767463-65BD-4B24-81C1-9A4ECC2DE2FF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{EE51DC06-F8BB-4305-A2B8-915E14F3A80E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{EE51DC06-F8BB-4305-A2B8-915E14F3A80E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{EE51DC06-F8BB-4305-A2B8-915E14F3A80E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9E767463-65BD-4B24-81C1-9A4ECC2DE2FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9E767463-65BD-4B24-81C1-9A4ECC2DE2FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9E767463-65BD-4B24-81C1-9A4ECC2DE2FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9E767463-65BD-4B24-81C1-9A4ECC2DE2FF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
