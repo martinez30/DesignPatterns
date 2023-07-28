@@ -19,4 +19,4 @@
 ## or put your custom commands -------------------
 #echo 'Husky.Net is awesome!'
 
-echo 'Husky.net is awesome!'
+exec < /dev/tty && node_modules/.bin/cz --hook || true
